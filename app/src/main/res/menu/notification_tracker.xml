@@ -1,0 +1,16 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fuun.notihub.MainActivity"
+    >
+
+    <item
+        android:id="@+id/action_period"
+        android:icon="@drawable/ic_sort"
+        android:title="Period"
+        app:showAsAction="always"
+        />
+
+
+</menu>
