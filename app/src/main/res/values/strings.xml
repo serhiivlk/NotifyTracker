@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">NotiHub</string>
+    <string name="app_name">NotiTracker</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
 
     <string name="service_label">NotificationTrackerService</string>
 
     <string name="notification_listener_service">"Notification Listener Service"</string>
-    <string name="notification_listener_service_explanation">"You need to enable the Notification Tracker Service. Enable it now?"</string>
+    <string name="notification_listener_service_explanation">"You need to enable the NotiTracker. Enable it now?"</string>
     <string name="enable">Enable</string>
     <string name="notification_tracker_fragment">Tracker</string>
 </resources>

@@ -3,8 +3,6 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
-    id 'com.facebook.testing.screenshot'
-    id 'shot'
     id 'koin'
 }
 
